@@ -6,7 +6,7 @@ Each folder contains the data, as well as a README explaining the data itself.
 ## Datasets
 
 - Boston Arrest Data, 2013 & 2014
-- Massachusetts Arrest Data with Race, [YEAR] to [YEAR]
+- Massachusetts Arrest Data with Race, 1/2012 to 7/2017
 - Boston Police Geofeedia Alerts, 2013 to 2015
 
 # MIT License
