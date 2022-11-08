@@ -8,7 +8,7 @@ Each folder contains the data, as well as a README explaining the data itself.
 - Boston Arrest Data, 2013 & 2014
 - Massachusetts Arrest Data with Race, 1/2012 to 7/2017
 - Boston Police Geofeedia Alerts, 2013 to 2015
-- MA Precinct-Level General Election Returns, 2010 & 2016
+- MA Precinct-Level Election Returns, 2010 & 2016
 
 # MIT License
 
